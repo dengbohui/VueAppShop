@@ -1,4 +1,4 @@
-首页地址：http://localhost:8080/#/index
+首页地址：http://localhost:8080/#/
 
 商品详情页：http://localhost:8080/#/goods
 
