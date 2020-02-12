@@ -1,3 +1,8 @@
+首页地址：http://localhost:8080/#/index
+
+
+
+
 # shopapp
 
 > A Vue.js project
