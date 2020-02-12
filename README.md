@@ -1,11 +1,20 @@
 首页地址：http://localhost:8080/#/index
-商品分类地址：http://localhost:8080/#/categoryList
+
+商品详情页：http://localhost:8080/#/goods
+
 购物车地址：http://localhost:8080/#/cart
+
+登陆页：http://localhost:8080/#/login
+
+注册页：http://localhost:8080/#/register
+
+商品分类地址：http://localhost:8080/#/categoryList（暂时存在bug）
+
 个人中心：待开发...
 
-待解决bugBug：
-1、引用van-sidebar，控制台报$attrs is readonly和$listeners is readonly错误，但是可以正常使用
+待解决Bug：
 
+1、引用van-sidebar，控制台报$attrs is readonly和$listeners is readonly错误，但是可以正常使用
 
 # shopapp
 
